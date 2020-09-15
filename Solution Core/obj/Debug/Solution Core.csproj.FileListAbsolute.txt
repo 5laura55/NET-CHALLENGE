@@ -1,0 +1,9 @@
+C:\Users\lcastillo\source\repos\NET Challenge\Solution Core\bin\Debug\Solution Core.dll
+C:\Users\lcastillo\source\repos\NET Challenge\Solution Core\bin\Debug\Solution Core.pdb
+C:\Users\lcastillo\source\repos\NET Challenge\Solution Core\bin\Debug\WebDriver.dll
+C:\Users\lcastillo\source\repos\NET Challenge\Solution Core\bin\Debug\WebDriver.xml
+C:\Users\lcastillo\source\repos\NET Challenge\Solution Core\obj\Debug\Solution Core.csproj.CoreCompileInputs.cache
+C:\Users\lcastillo\source\repos\NET Challenge\Solution Core\obj\Debug\Solution Core.csproj.CopyComplete
+C:\Users\lcastillo\source\repos\NET Challenge\Solution Core\obj\Debug\Solution Core.dll
+C:\Users\lcastillo\source\repos\NET Challenge\Solution Core\obj\Debug\Solution Core.pdb
+C:\Users\lcastillo\source\repos\NET Challenge\Solution Core\obj\Debug\Solution Core.csprojAssemblyReference.cache

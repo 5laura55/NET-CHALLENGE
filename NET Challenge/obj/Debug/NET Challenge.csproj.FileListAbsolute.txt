@@ -1,0 +1,20 @@
+C:\Users\lcastillo\source\repos\NET Challenge\NET Challenge\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\lcastillo\source\repos\NET Challenge\NET Challenge\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\lcastillo\source\repos\NET Challenge\NET Challenge\bin\Debug\nunit.engine.dll
+C:\Users\lcastillo\source\repos\NET Challenge\NET Challenge\bin\Debug\nunit.engine.api.dll
+C:\Users\lcastillo\source\repos\NET Challenge\NET Challenge\bin\Debug\nunit.engine.core.dll
+C:\Users\lcastillo\source\repos\NET Challenge\NET Challenge\bin\Debug\NET Challenge.dll.config
+C:\Users\lcastillo\source\repos\NET Challenge\NET Challenge\bin\Debug\NET Challenge.dll
+C:\Users\lcastillo\source\repos\NET Challenge\NET Challenge\bin\Debug\NET Challenge.pdb
+C:\Users\lcastillo\source\repos\NET Challenge\NET Challenge\bin\Debug\nunit.framework.dll
+C:\Users\lcastillo\source\repos\NET Challenge\NET Challenge\bin\Debug\RestSharp.dll
+C:\Users\lcastillo\source\repos\NET Challenge\NET Challenge\bin\Debug\WebDriver.dll
+C:\Users\lcastillo\source\repos\NET Challenge\NET Challenge\bin\Debug\nunit.framework.pdb
+C:\Users\lcastillo\source\repos\NET Challenge\NET Challenge\bin\Debug\nunit.framework.xml
+C:\Users\lcastillo\source\repos\NET Challenge\NET Challenge\bin\Debug\RestSharp.xml
+C:\Users\lcastillo\source\repos\NET Challenge\NET Challenge\bin\Debug\WebDriver.xml
+C:\Users\lcastillo\source\repos\NET Challenge\NET Challenge\obj\Debug\NET Challenge.csproj.CoreCompileInputs.cache
+C:\Users\lcastillo\source\repos\NET Challenge\NET Challenge\obj\Debug\NET Challenge.csproj.CopyComplete
+C:\Users\lcastillo\source\repos\NET Challenge\NET Challenge\obj\Debug\NET Challenge.dll
+C:\Users\lcastillo\source\repos\NET Challenge\NET Challenge\obj\Debug\NET Challenge.pdb
+C:\Users\lcastillo\source\repos\NET Challenge\NET Challenge\obj\Debug\NET Challenge.csprojAssemblyReference.cache
